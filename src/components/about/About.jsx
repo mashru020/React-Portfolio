@@ -5,10 +5,6 @@ import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
 
-
-
-
-
 const About = () => {
   return (
     <section id='about'>
